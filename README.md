@@ -1,6 +1,6 @@
 # HackerNews-Terminal
 
-HackerNews (HN) is blocked in China.
+HackerNews (HN) is blocked by the GFW.
 However, it's strange for the following two things:
 
 1. HN is for technology information, and not politically sensitive
