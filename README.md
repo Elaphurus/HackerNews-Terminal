@@ -4,9 +4,9 @@ HackerNews (HN) is blocked by the GFW.
 However, it's strange for the following two things:
 
 1. HN is for technology information, and not politically sensitive
-2. proxy is not effcetive here (don't know why)
+2. proxy is not effective here (don't know why)
 
-Fortunately, a little crawler 🐛 is enough to get it back.
+Fortunately, a little crawler 🐛 is enough to get it back (proxy is still needed, and is to work).
 
 ## Usage
 
